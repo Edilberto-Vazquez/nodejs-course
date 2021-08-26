@@ -20,6 +20,3 @@ hola("Edilberto", (nombre) => {
     console.log(console.log("Terminando proceso"));
   });
 });
-
-// hola("Edilberto", () => {});
-// adios("Edilberto", () => {});
