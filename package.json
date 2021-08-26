@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/Edilberto-Vazquez/nodejs-course#readme",
   "dependencies": {
-    "dotenv": "^10.0.0",
-    "typescript": "^4.3.5"
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {}
 }
