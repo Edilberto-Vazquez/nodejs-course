@@ -1,6 +1,6 @@
 console.log("Hello, world");
-let i = 0;
-setInterval(() => {
+var i = 0;
+setInterval(function () {
     console.log(i);
     i++;
     // if (i === 5) {

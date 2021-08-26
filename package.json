@@ -2,7 +2,7 @@
   "name": "nodejs-course",
   "version": "1.0.0",
   "description": "nodejs course",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "tsc": "tsc"
   },
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Edilberto-Vazquez/nodejs-course#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "typescript": "^4.3.5"
   },
   "devDependencies": {}
