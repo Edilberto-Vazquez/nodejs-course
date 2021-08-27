@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "nodejs course",
   "main": "index.js",
-  "scripts": {
-    "tsc": "tsc"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Edilberto-Vazquez/nodejs-course.git"
